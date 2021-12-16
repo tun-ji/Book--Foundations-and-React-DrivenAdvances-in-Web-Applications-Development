@@ -1,0 +1,31 @@
+{
+  "name": "book--foundations-and-react-drivenadvances-in-web-applications-development",
+  "version": "0.0.1",
+  "description": "Examples from the teaching guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tun-ji/Book--Foundations-and-React-DrivenAdvances-in-Web-Applications-Development.git"
+  },
+  "author": "Oluwatomilola Adeniran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tun-ji/Book--Foundations-and-React-DrivenAdvances-in-Web-Applications-Development/issues"
+  },
+  "homepage": "https://github.com/tun-ji/Book--Foundations-and-React-DrivenAdvances-in-Web-Applications-Development#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "babel-loader": "^8.2.3",
+    "babel-polyfill": "^6.26.0",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
